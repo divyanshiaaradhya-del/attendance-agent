@@ -1,0 +1,117 @@
+{
+  "summary": {
+    "avg_noise_db": -78.9,
+    "amplitude_variation": 2.16,
+    "silence_ratio": 1.0,
+    "noise_ratio": 0.0,
+    "speech_ratio": 0.0,
+    "speech_segments": 0
+  },
+  "segments": [
+    {
+      "timestamp": 1792477405.1623917,
+      "amplitude_rms": 0.00014,
+      "peak": 0.00134,
+      "db": -77.1,
+      "label": "silence"
+    },
+    {
+      "timestamp": 1792477407.9409978,
+      "amplitude_rms": 9e-05,
+      "peak": 0.00055,
+      "db": -81.1,
+      "label": "silence"
+    },
+    {
+      "timestamp": 1792477409.1066651,
+      "amplitude_rms": 0.0001,
+      "peak": 0.00058,
+      "db": -80.3,
+      "label": "silence"
+    },
+    {
+      "timestamp": 1792477410.3156602,
+      "amplitude_rms": 9e-05,
+      "peak": 0.00064,
+      "db": -80.7,
+      "label": "silence"
+    },
+    {
+      "timestamp": 1792477411.5362647,
+      "amplitude_rms": 0.00011,
+      "peak": 0.00085,
+      "db": -78.8,
+      "label": "silence"
+    },
+    {
+      "timestamp": 1792477412.7893991,
+      "amplitude_rms": 9e-05,
+      "peak": 0.00052,
+      "db": -80.7,
+      "label": "silence"
+    },
+    {
+      "timestamp": 1792477413.996872,
+      "amplitude_rms": 0.0001,
+      "peak": 0.00061,
+      "db": -80.0,
+      "label": "silence"
+    },
+    {
+      "timestamp": 1792477415.2409885,
+      "amplitude_rms": 9e-05,
+      "peak": 0.00064,
+      "db": -80.6,
+      "label": "silence"
+    },
+    {
+      "timestamp": 1792477416.4679565,
+      "amplitude_rms": 0.00013,
+      "peak": 0.00113,
+      "db": -77.4,
+      "label": "silence"
+    },
+    {
+      "timestamp": 1792477417.6872365,
+      "amplitude_rms": 0.0001,
+      "peak": 0.00067,
+      "db": -80.4,
+      "label": "silence"
+    },
+    {
+      "timestamp": 1792477418.9136386,
+      "amplitude_rms": 9e-05,
+      "peak": 0.00061,
+      "db": -80.7,
+      "label": "silence"
+    },
+    {
+      "timestamp": 1792477420.1434085,
+      "amplitude_rms": 0.00016,
+      "peak": 0.00101,
+      "db": -76.1,
+      "label": "silence"
+    },
+    {
+      "timestamp": 1792477421.365191,
+      "amplitude_rms": 0.00022,
+      "peak": 0.0087,
+      "db": -73.2,
+      "label": "silence"
+    },
+    {
+      "timestamp": 1792477422.5845423,
+      "amplitude_rms": 0.00013,
+      "peak": 0.00122,
+      "db": -77.7,
+      "label": "silence"
+    },
+    {
+      "timestamp": 1792477423.7804468,
+      "amplitude_rms": 0.00011,
+      "peak": 0.00076,
+      "db": -79.2,
+      "label": "silence"
+    }
+  ]
+}
