@@ -2,3 +2,4 @@ streamlit
 opencv-python<5
 mediapipe
 librosa
+sounddevice
