@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 1792476368.0743241,
+    "amplitude_rms": 0.00061,
+    "peak": 0.004,
+    "db": -64.2
+  },
+  {
+    "timestamp": 1792476373.7187002,
+    "amplitude_rms": 0.00044,
+    "peak": 0.00284,
+    "db": -67.1
+  },
+  {
+    "timestamp": 1792476374.9155192,
+    "amplitude_rms": 0.00028,
+    "peak": 0.00287,
+    "db": -71.2
+  },
+  {
+    "timestamp": 1792476376.251371,
+    "amplitude_rms": 0.00012,
+    "peak": 0.0007,
+    "db": -78.3
+  },
+  {
+    "timestamp": 1792476377.4689655,
+    "amplitude_rms": 0.00023,
+    "peak": 0.00229,
+    "db": -72.8
+  },
+  {
+    "timestamp": 1792476378.715158,
+    "amplitude_rms": 0.00029,
+    "peak": 0.00269,
+    "db": -70.8
+  },
+  {
+    "timestamp": 1792476379.9567492,
+    "amplitude_rms": 9e-05,
+    "peak": 0.00058,
+    "db": -80.6
+  },
+  {
+    "timestamp": 1792476381.1640556,
+    "amplitude_rms": 9e-05,
+    "peak": 0.00104,
+    "db": -80.5
+  },
+  {
+    "timestamp": 1792476382.3713543,
+    "amplitude_rms": 0.0001,
+    "peak": 0.00058,
+    "db": -80.1
+  },
+  {
+    "timestamp": 1792476383.5906353,
+    "amplitude_rms": 0.00012,
+    "peak": 0.00079,
+    "db": -78.5
+  }
+]
